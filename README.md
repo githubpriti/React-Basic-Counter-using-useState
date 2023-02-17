@@ -23,7 +23,7 @@ What I learned in this:
 
 ![lco](./screenshots/Web%20capture_16-2-2023_184310_localhost.jpeg)
 
-## [Live Project Link](http://localhost:3000/)
+## [Live Project Link](https://react-basic-counter-using-use-state.vercel.app/)
 
 For any query you can reach out at jajuvh@gmail.com I am happy to help anytime.
 
